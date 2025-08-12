@@ -1,16 +1,23 @@
-# to_list_app
+# 📝 Todo List App
 
-A new Flutter project.
+A simple and efficient **Flutter Todo List App** that stores your tasks locally using **SharedPreferences**.  
+This app is perfect for managing daily tasks without needing an internet connection.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📌 Features
+- ➕ Add new tasks easily
+- ✏️ Edit existing tasks
+- ✅ Mark tasks as completed
+- ❌ Delete tasks
+- 💾 Save data locally using **SharedPreferences**
+- 📱 Simple and clean UI
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Technologies Used
+- **Flutter** (Dart)
+- **SharedPreferences** for local storage
+- **Material Design** for UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
